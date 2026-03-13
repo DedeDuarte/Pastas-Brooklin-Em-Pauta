@@ -143,7 +143,7 @@ def openLinks(links_args: list[str]) -> None:
     link_editors: str = 'https://drive.google.com/drive/u/2/folders/1Ru_7QlElb9FKwv1FVHlyJJYcpt1eLCNP'
     link_general: str = 'https://drive.google.com/drive/folders/1MX8DoS57xz7OK1SDmOLQCZtzbcHYRrK8'
     link_canvaEditores: str = 'https://www.canva.com/design/DAG7gEU9kRU/Fd8ZGxvIsJl4dTOnLbqXCg/edit'
-    link_canvaThumbs: str = 'https://www.canva.com/design/DAGab21FXbk/udHbbKXgoo-44U3gQrJBZw/edit'
+    link_canvaThumbs: str = 'https://www.canva.com/design/DAG9MvcMSB0/GxslA2LZaHAcHJxy5CsfMw/edit'
     links: list[str] = [
             link_gabi,          # Gabi
             link_editors,       # Editores
