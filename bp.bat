@@ -1,2 +1,2 @@
 @echo off
-python "D:\Apps\CapCut\BPs\BP init\bp_init.py" %*
+python "%~dp0bp_init.py" %*
